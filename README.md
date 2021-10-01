@@ -1,6 +1,6 @@
 <a href="https://velog.io/@devyoon99">
     <img 
-        src="http://img.shields.io/badge/-velog-lightgrey?style=flat&logo=vimeo&link=https://velog.io/@devyoon99"
+        src="http://img.shields.io/badge/-my velog-lightgrey?style=flat&logo=vimeo&link=https://velog.io/@devyoon99"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
